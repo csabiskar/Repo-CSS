@@ -1,0 +1,81 @@
+ body{
+    background-image: url(https://media.istockphoto.com/id/898970680/photo/black-old-brick-wall-panoramic-background-in-high-resolution.webp?b=1&s=170667a&w=0&k=20&c=onlArRtNGXAHbn34xa_cB1gqHH3l8Yv-w5kU8PtU1aQ=);
+    background-size: cover;
+ }
+ .h1{
+    color: white;
+    text-align: center;
+    font-size: 38px;
+ }
+ .containerOne{
+    background-color: white;
+    width: 250px;
+    height: 370px;
+    margin-top: 160px;
+    border-radius: 10px;
+    margin: 10px;
+    border: 2px solid rgb(7, 201, 182);
+    box-shadow:  15px 15px solid aquamarine;
+ }
+ .containerTwo{
+    background-color: white;
+    width: 250px;
+    height: 370px;
+    margin-top: 100px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 2px solid rgb(7, 201, 182);
+ }
+ .containerThree{
+    background-color: white;
+    width: 250px;
+    height: 370px;
+    margin-top: 100px;
+    margin: 10px;
+    border-radius: 10px;
+    border: 2px solid rgb(7, 201, 182);
+ }
+ img{
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    margin-left: 60px;
+    border: 2px solid rgb(7, 201, 182);
+    margin-top: 17px;
+ }
+ .h4{
+    margin-left: 85px;
+    margin-top: 10px;
+    color: rgb(7,201,182);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+.icon1{
+   text-align: center;
+    margin-top:-15px;
+    font-size: 12px;
+}
+.para1{
+    text-align: center;
+    margin-top: 10px;
+}
+.button1{
+    width: 110px;
+    height: 40px;
+    margin-left:7px;
+    border: 2px solid rgb(7, 201, 182);
+    color: rgb(7, 201, 182);
+    border-radius: 6px;
+}
+.button2{
+    width: 110px;
+    height: 40px;
+    margin-left:7px;
+    border: 2px solid rgb(7,201,182);
+    color: white;
+    background-color: rgb(7, 201, 182);
+    border-radius: 6px;
+}
+section{
+    margin-left: 250px;
+    margin-top: 90px;
+}

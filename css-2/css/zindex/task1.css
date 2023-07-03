@@ -1,0 +1,117 @@
+body{
+    background-color: rgb(202, 103, 112);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.container1{
+     width: 500px;
+     height: 300px;
+     background:linear-gradient(rgb(202, 114, 98), rgb(179, 42, 58),rgb(195, 41, 45));
+     margin-top: 90px;
+     margin-left: 280px;
+}
+img{
+    width:250px;
+    height: 300px;
+    object-fit:contain;
+    position: relative;
+    transform: rotate(8deg);
+    left: 20px;
+}
+.container2{
+    width: 250px;
+    height:335px;
+    background-color: white;
+    margin-left: 550px;
+    position: absolute;
+    bottom: 240px;
+}
+.star{
+    font-size: 11px;
+    position: relative;
+    left: 18px;
+    top: 10px;
+}
+.dollor{
+    color:grey;
+    position: relative;
+    left: 170px;
+    bottom: 25px;
+    font-size: 18px;
+}
+h2{
+    font-size: 20px;
+    position: relative;
+    left: 18px;
+    bottom: 33px;
+    color: rgb(78, 67, 67);
+}
+.p{
+    position: relative;
+    left: 18px;
+    bottom: 33px;
+    font-size:15px;
+    color: rgb(151, 148, 148);
+}
+.color{
+    position: relative;
+    left: 18px;
+    bottom: 30px;
+    font-size: 16px;
+    color: rgb(98, 95, 95);
+}
+.pink{
+    background-color: #ff61dd;
+    border-radius: 50%;
+}
+.red{
+    background-color: #ff4c38;
+    border-radius: 50%;
+}
+.yelow{
+    background-color: #ffff38;
+    border-radius: 50%;
+}
+.green{
+    background-color:  #63f05e;
+    border-radius: 50%;
+}
+.i{
+    margin:5px;
+    position: relative;
+    left: 49px;
+    bottom: 40px;
+}
+.size{
+    position: relative;
+    left: 18px;
+    bottom: 50px;
+    font-size: 16px;
+    color: rgb(98, 95, 95);
+}
+.num{
+    font-size: 15px;
+    color: rgb(89, 86, 86);
+    position: relative;
+    left: 52px;
+    bottom: 55px;
+}
+input{
+    width: 170px;
+    height: 40px;
+    border-radius: 30px;
+    background:linear-gradient(rgb(202, 114, 98), rgb(179, 42, 58),rgb(195, 41, 45));
+    color: white;
+    border:rgb(195, 41, 45);
+    box-shadow: 0px 0px 10px rgb(195, 41, 45) ;
+    position: relative;
+    left: 28px;
+    bottom: 50px;
+}
+.p3{
+ text-decoration: underline;
+    position: relative;
+    left: 55px;
+    bottom: 50px;
+    font-size: 14px;
+    color: rgb(104, 99, 99);
+}

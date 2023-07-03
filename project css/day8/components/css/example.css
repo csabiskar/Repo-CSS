@@ -1,0 +1,5 @@
+ol{
+  /* list-style-image: url('https://cdn-icons-png.flaticon.com/512/541/541415.png'); */
+  list-style-type: upper-alpha;
+  list-style-position: outside;
+}

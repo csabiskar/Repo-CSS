@@ -1,0 +1,17 @@
+.parent{
+    background-color: rgb(19, 194, 203);
+    width: 100vw;
+    height: 100vh;
+}
+body{
+    overflow: hidden;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+.child1{
+    background-color: white;
+    width: 100vw;
+    height: 7vw;
+}

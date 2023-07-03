@@ -1,0 +1,36 @@
+.container1{
+    background-color: rgb(237, 11, 11);
+    background-image: url(https://img.freepik.com/free-photo/people-hangout-together-coffee-shop_53876-165279.jpg?size=626&ext=jpg&ga=GA1.2.667749304.1687782115&semt=sph);
+    background-size: cover;
+    width: 330px;
+    height: 250px;
+    margin-left: 450px;
+    margin-top: 20px;
+}
+.container2{
+    background-color: white;
+    width: 330px;
+    height: 370px;
+    margin-left: 450px;
+    margin-top: -30px;
+    border-top-left-radius: 14px;
+    border-top-right-radius:14px ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.h1{
+    padding-top:12px;
+}
+.input{
+    width: 150px;
+    height: 40px;
+    background-color: rgb(74, 64, 64);
+    color: white;
+    border-radius: 10px;
+}
+input{
+    margin-left: 10px;
+}
+body{
+    background-image: url(https://img.freepik.com/free-photo/texture-cold-gray-background-copy-space-generative-ai_169016-29493.jpg?size=626&ext=jpg&ga=GA1.1.667749304.1687782115&semt=sph);
+   background-size: cover;
+}
